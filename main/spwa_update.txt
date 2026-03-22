@@ -1,0 +1,2 @@
+versionName=58.1
+webpageUrl=https://t.me/jubatek
