@@ -1,0 +1,20 @@
+{
+  "notifications": [
+    {
+      "id": "spwa_01",
+      "enabled": true,
+      "version": 1,
+      "title": "مرحبا واتساب JO!",
+      "message": "شكرا للتثبيت. تحقق من الميزات الجديدة!",
+      "url": ""
+    },
+    {
+      "id": "spwa_user_05",
+      "enabled": true,
+      "version": 1,
+      "title": "واتساب GB من طرف Juba22",
+      "message": "مرحبًا أيها المستخدم، تابع قناتنا على اليوتيوب.",
+      "url": "https://youtube.com/@juba22"
+    }
+  ]
+}
