@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "title": "التحديث متوفر! 🚀",
-  "message": "يتوفر الآن إصدار جديد من تطبيق JO WhatsApp بميزات رائعة. انقر للتنزيل الآن!",
-  "download_url": "https://www.jubatek.com",
-  "minimum_version_code": 90,
-  "version_name": "2.26.3.76",
+  "title": "Update Available! 🚀",
+  "message": "A new version of SP WhatsApp is available with amazing features. Tap to download now!",
+  "download_url": "https://www.spmods.download",
+  "minimum_version_code": 80,
+  "version_name": "2.26.10.75",
   "release_notes": [
     "New dark mode theme",
     "Improved performance",
